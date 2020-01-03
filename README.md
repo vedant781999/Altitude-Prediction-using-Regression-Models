@@ -8,3 +8,6 @@ Regression Analysis is used by taking and training models with polynomials of va
 The model is developed in Python language using numpy and pandas packages to simplify data visualization and training.
 
 Polynomial models of upto 6 degrees were trained and tested and the results were analyzed to come up with the best possible model.
+
+The Dataset contains 4 columns , out of which the 1st columns 'id' is removed and the rest 3 columns were used for training.
+The next 3 columns were latitude , longitude and altitude respectively.
